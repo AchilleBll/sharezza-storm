@@ -1,6 +1,5 @@
-REMOTE
 # sharezza-storm
-coup dur
+REMOTE
 
 g tou ksé héhé oups
 gnaaaaaaaaaaaa
