@@ -1,3 +1,4 @@
+REMOTE
 # sharezza-storm
 coup dur
 
